@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="(https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif" width="500"/>
 </div>
-### HEllo fellas!!! 🤘🤘
 
-<!--
-**MAHADEV05/MAHADEV05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey fellas!!! 🤘🤘</h1>
+<h2>This is MAHADEV </h2>
+
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
